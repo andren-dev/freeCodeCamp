@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Just Steak and Eggs</title>
+  </head>  
+  <body>
+    <h1>Just Steak and Eggs</h1>
+    <p>A simple and very nutritious breakfast that takes only 20 minutes to prepare and fuels your body for many hours!</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 lb of any cut of red meat</li>
+      <li>4 eggs</li>
+      <li>1 tablespoon of butter</li>
+      <li>Salt and Pepper</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Set the air fryer to 390 degrees and set the timer to 17 minutes</li>
+      <li>Start preheating a frying pan on medium heat</li>
+      <li>Once 5 minutes has passed, put the meat in the air fryer for 6 minutes</li>
+      <li>In the frying pan throw in the butter and make sure it covers the whole frying pan once melted</li>
+      <li>Break open all 4 eggs and add them to the frying pan</li>
+      <li>Once the 6 minutes has passed, take the meat out, flip it over and put it back in the air fryer for the remaining of the 6 minutes left on it</li>
+      <li>Shake a bit the frying pan so the eggs don't stick to it</li>
+      <li>Once the egg whites are cooked, removed them from the frying pan onto a dish</li>
+      <li>Once the timer on the air fryer stops, remove the meat from it and add it to the plate</li>
+      <li>Add salt and pepper to the meat and eggs and let it sit for 3 minutes and enjoy!</li>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Classic Steak and Eggs"> 
+  </body>  
+</html> 
