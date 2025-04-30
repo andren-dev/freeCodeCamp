@@ -1,1 +1,38 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="explore the colombian culture, cusine, clear water with white sand beaches">
+  </head>
+  <body>
+    <h1>Explore Colombia</h1>
+    <p>Come and explore Colombia's culture, food and the beaches with crystal clear waters and white sands.</p>
+    <h2>Packages</h2>
+    <p>We offer a couple of packages depending on your budget needs:</p>
+    <ul>
+      <li>
+        <a target="_blank" href="https://www.freecodecamp.org/learn">Group Travels</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.freecodecamp.org/learn">Private Tours</a>
+      </li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Roman Colossium">
+      </a>
+      <figcaption>Museo de la Inquisici&oacuten</figcaption>
+    </figure>
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Alp Mountains">
+      </a>
+      <figcaption>Parque Nacional Natural Tatam&aacute</figcaption>
+    </figure>
+    <figure>
+      <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Clear Water Ocean">
+      </a>
+      <figcaption>San Andres and Providence Islands</figcaption>
+    </figure>        
+  </body>    
+</html>  
